@@ -15,3 +15,4 @@ This project tackles Afritech's problems by transforming their social media chal
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/896418dd-68ae-46b3-9cca-baff40ac3f6b" />
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/8064d924-301d-425e-ad88-1d674758afb4" />
 <img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/eaa4a209-1b2f-4954-95df-7a861d159635" />
+<img width="1999" height="1545" alt="image" src="https://github.com/user-attachments/assets/c8066d58-66e2-4647-99b7-12f4f4aabdfe" />
